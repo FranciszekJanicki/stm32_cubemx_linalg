@@ -1,0 +1,3 @@
+[submodule "/home/franek/Documents/stm32_cubemx/stm32l476rg/stm32_cubemx_linalg/components/linalg"]
+	path = /home/franek/Documents/stm32_cubemx/stm32l476rg/stm32_cubemx_linalg/components/linalg
+	url = git@github.com:FranciszekJanicki/linalg.git

@@ -1,0 +1,1 @@
+git@github.com:FranciszekJanicki/linalg.git linalg
